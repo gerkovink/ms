@@ -109,7 +109,9 @@ I believe that we should demand from the UU community to follow these simple ste
 9. Ask the tool not to use input for training
 10. Open the content you produce by using AI tools as much as possible with permissive licenses
 
-Put a disclaimer on your materials that governs what is or is not allowed when using generative AI tools.
+If in doubt about any of the above, don't use generative AI tools.
+
+For teachers: Put a disclaimer on your materials that governs what is or is not allowed when using generative AI tools.
 
 ## Final thoughts
 - join the consortium
