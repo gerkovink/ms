@@ -70,6 +70,7 @@ Here are some links that I find useful:
 3. [UU: Can you still use take-home exams and essays?](https://www.uu.nl/en/education/educational-development-training/knowledge-dossier/the-influence-of-chatgpt-on-assessment-can-you-still-use-take-home-exams-and-essays)
 4. [Bower, M., Torrington, J., Lai, J.W.M. et al. (2024) How should we change teaching and assessment in response to increasingly powerful generative Artificial Intelligence? Outcomes of the ChatGPT teacher survey. Educ Inf Technol.](https://link.springer.com/article/10.1007/s10639-023-12405-0)
 5. [TILAPIA tool by Phil Newton & ChatGPT](https://www.dropbox.com/scl/fi/a0knbe4l5vdmpr9l2xsox/AI-resilience-tool-v3.0.png?rlkey=ih87d4jh5lqu9l69ygr44s2se&dl=0)
+6. [UU: Chatbots in education: friend or foe](https://intranet.uu.nl/en/news/background/chatbots-in-education-friend-or-foe?check_logged_in=1)
 
 # Student & Staff survey
 
