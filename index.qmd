@@ -37,8 +37,8 @@ You **may use** any and all content in this presentation - including my name - a
 :::
 Source:
 
-- [www.gerkovink.com/jonguu](https://www.gerkovink.com/jonguu)
-- [github.com/gerkovink/jonguu](https://github.com/gerkovink/jonguu)
+- [www.gerkovink.com/ms](https://www.gerkovink.com/ms)
+- [github.com/gerkovink/ms](https://github.com/gerkovink/ms)
 
 ## First of all
 ::: {.callout-tip}
